@@ -57,6 +57,8 @@ public class LoginAction extends HttpServlet {
 		
 		doGet(request, response);
 		
+		System.out.println("Simple Demo");
+		
 	}
 
 }
